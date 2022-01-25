@@ -1,0 +1,780 @@
+2022-01-25 15:09:38 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fa073c54440; archive(resolved)="<IDEArchive: 0x7fa071c3a3c0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fa073c54440; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fa0739108b0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa073c2c3f0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0739cab70; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0749cce90; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0749c3eb0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa07398c2f0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0566902a0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0724f9970; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa071cb8760; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa072e60540; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0741da7c0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0741ce1c0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa0b0fd9270; teamID='27YJ3AB2C9', teamName='KAL TECHNOLOGIES (PRIVATE) LIMITED', teamType='Company', username='hamza.hu97@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa0726f4190; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="(null)">
+	<IDEDistributionContext: 0x7fa071c99d70; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa0718e6130>", team="(null)">
+	<IDEDistributionContext: 0x7fa072480fd0; archive = "<IDEArchive: 0x7fa071c3a3c0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fa073c54440>
+2022-01-25 15:09:38 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-01-25 15:09:38 +0000  Processing step: IDEDistributionCopyItemStep
+2022-01-25 15:09:38 +0000  Running /usr/bin/ditto '-V' '/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app'
+2022-01-25 15:09:38 +0000  >>> Copying /Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app 
+2022-01-25 15:09:38 +0000  copying file ./_CodeSignature/CodeResources ... 
+2022-01-25 15:09:38 +0000  12006 bytes for ./_CodeSignature/CodeResources
+copying file ./Fontisto.ttf ... 
+2022-01-25 15:09:38 +0000  313528 bytes for ./Fontisto.ttf
+2022-01-25 15:09:38 +0000  copying file ./Octicons.ttf ... 
+2022-01-25 15:09:38 +0000  28364 bytes for ./Octicons.ttf
+copying file ./Feather.ttf ... 
+2022-01-25 15:09:38 +0000  56024 bytes for ./Feather.ttf
+2022-01-25 15:09:38 +0000  copying file ./Entypo.ttf ... 
+2022-01-25 15:09:38 +0000  65584 bytes for ./Entypo.ttf
+2022-01-25 15:09:38 +0000  copying file ./FontAwesome5_Brands.ttf ... 
+2022-01-25 15:09:38 +0000  132728 bytes for ./FontAwesome5_Brands.ttf
+copying file ./MaterialCommunityIcons.ttf ... 
+2022-01-25 15:09:38 +0000  899432 bytes for ./MaterialCommunityIcons.ttf
+2022-01-25 15:09:38 +0000  copying file ./AntDesign.ttf ... 
+2022-01-25 15:09:38 +0000  70344 bytes for ./AntDesign.ttf
+copying file ./Foundation.ttf ... 
+2022-01-25 15:09:38 +0000  56976 bytes for ./Foundation.ttf
+2022-01-25 15:09:38 +0000  copying file ./Ionicons.ttf ... 
+2022-01-25 15:09:38 +0000  247192 bytes for ./Ionicons.ttf
+2022-01-25 15:09:38 +0000  copying file ./FontAwesome5_Solid.ttf ... 
+2022-01-25 15:09:38 +0000  202616 bytes for ./FontAwesome5_Solid.ttf
+copying file ./FontAwesome5_Regular.ttf ... 
+2022-01-25 15:09:38 +0000  34092 bytes for ./FontAwesome5_Regular.ttf
+2022-01-25 15:09:38 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2022-01-25 15:09:38 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2022-01-25 15:09:38 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2022-01-25 15:09:38 +0000  795 bytes for ./AccessibilityResources.bundle/Info.plist
+2022-01-25 15:09:38 +0000  copying file ./FontAwesome.ttf ... 
+2022-01-25 15:09:38 +0000  165548 bytes for ./FontAwesome.ttf
+2022-01-25 15:09:38 +0000  copying file ./Zocial.ttf ... 
+2022-01-25 15:09:38 +0000  25552 bytes for ./Zocial.ttf
+2022-01-25 15:09:38 +0000  copying file ./EvilIcons.ttf ... 
+2022-01-25 15:09:38 +0000  13456 bytes for ./EvilIcons.ttf
+copying file ./main.jsbundle ... 
+2022-01-25 15:09:38 +0000  1785523 bytes for ./main.jsbundle
+2022-01-25 15:09:38 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2022-01-25 15:09:38 +0000  3769 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2022-01-25 15:09:38 +0000  896 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2022-01-25 15:09:38 +0000  copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2022-01-25 15:09:38 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2022-01-25 15:09:38 +0000  466576 bytes for ./Frameworks/libswiftCoreImage.dylib
+copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2022-01-25 15:09:38 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2022-01-25 15:09:38 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2022-01-25 15:09:38 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2022-01-25 15:09:38 +0000  1608800 bytes for ./Frameworks/libswiftUIKit.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2022-01-25 15:09:38 +0000  724416 bytes for ./Frameworks/libswiftMetal.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2022-01-25 15:09:38 +0000  4056912 bytes for ./Frameworks/libswiftDispatch.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2022-01-25 15:09:38 +0000  857184 bytes for ./Frameworks/libswiftos.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2022-01-25 15:09:38 +0000  450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2022-01-25 15:09:38 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2022-01-25 15:09:38 +0000  486352 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2022-01-25 15:09:38 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2022-01-25 15:09:39 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2022-01-25 15:09:39 +0000  copying file ./SimpleLineIcons.ttf ... 
+2022-01-25 15:09:39 +0000  54056 bytes for ./SimpleLineIcons.ttf
+2022-01-25 15:09:39 +0000  copying file ./embedded.mobileprovision ... 
+2022-01-25 15:09:39 +0000  12075 bytes for ./embedded.mobileprovision
+2022-01-25 15:09:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png ... 
+2022-01-25 15:09:39 +0000  761 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png
+2022-01-25 15:09:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png ... 
+2022-01-25 15:09:39 +0000  405 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png
+2022-01-25 15:09:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon.png ... 
+2022-01-25 15:09:39 +0000  290 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon.png
+2022-01-25 15:09:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png ... 
+2022-01-25 15:09:39 +0000  913 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png
+2022-01-25 15:09:39 +0000  copying file ./assets/node_modules/react-native-paper/src/assets/back-chevron.png ... 
+2022-01-25 15:09:39 +0000  489 bytes for ./assets/node_modules/react-native-paper/src/assets/back-chevron.png
+2022-01-25 15:09:39 +0000  copying file ./tasking ... 
+2022-01-25 15:09:39 +0000  21432832 bytes for ./tasking
+2022-01-25 15:09:39 +0000  copying file ./Info.plist ... 
+2022-01-25 15:09:39 +0000  1764 bytes for ./Info.plist
+2022-01-25 15:09:39 +0000  copying file ./PkgInfo ... 
+2022-01-25 15:09:39 +0000  8 bytes for ./PkgInfo
+2022-01-25 15:09:39 +0000  copying file ./MaterialIcons.ttf ... 
+2022-01-25 15:09:39 +0000  230384 bytes for ./MaterialIcons.ttf
+2022-01-25 15:09:39 +0000  /usr/bin/ditto exited with 0
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa073caa490; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741cda50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0aa519630; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa068b14970; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073ca1480; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0555223c0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa073998260; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073994990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07013a720; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa0749c6940; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0aa519630; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa071c4dc20; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa066c42940; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa070169240; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071cb51f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa0aa423b80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa0739da150; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0724e7170; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa071c9cf70; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073998c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa07389dfe0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa0739a4960; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071c5b760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa0739a1b70; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073995600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0555223c0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib".
+2022-01-25 15:09:39 +0000  No Info.plist file URL found for item at path "/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib".
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionItemRemovalStep
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-01-25 15:09:39 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-01-25 15:09:39 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-01-25 15:09:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/tasking' '-l' '-keep_cs' '-o' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/tasking'
+2022-01-25 15:09:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-01-25 15:09:39 +0000  Running /usr/bin/ditto '-V' '/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/BCSymbolMaps/45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/BCSymbolMaps/45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap'
+2022-01-25 15:09:39 +0000  >>> Copying /Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/BCSymbolMaps/45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap 
+2022-01-25 15:09:39 +0000  copying file ./45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap ... 
+2022-01-25 15:09:39 +0000  1776431 bytes for ./45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap
+2022-01-25 15:09:39 +0000  /usr/bin/ditto exited with 0
+2022-01-25 15:09:39 +0000  Processing step: IDEDistributionSymbolsStep
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftCore.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftCoreImage.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftDarwin.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftDispatch.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftFoundation.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftMetal.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftUIKit.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for libswiftos.dylib
+2022-01-25 15:09:40 +0000  Excluding symbols for tasking.app
+2022-01-25 15:09:40 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2022-01-25 15:09:40 +0000  Running /usr/bin/ditto '-V' '/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/SwiftSupport' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/SwiftSupport'
+2022-01-25 15:09:40 +0000  >>> Copying /Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/SwiftSupport 
+2022-01-25 15:09:40 +0000  copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2022-01-25 15:09:40 +0000  534085 bytes for ./iphoneos/libswiftCoreImage.dylib
+copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2022-01-25 15:09:40 +0000  853774 bytes for ./iphoneos/libswiftObjectiveC.dylib
+2022-01-25 15:09:40 +0000  copying file ./iphoneos/libswiftCore.dylib ... 
+2022-01-25 15:09:41 +0000  140528730 bytes for ./iphoneos/libswiftCore.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2022-01-25 15:09:41 +0000  2727566 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftUIKit.dylib ... 
+2022-01-25 15:09:41 +0000  2211816 bytes for ./iphoneos/libswiftUIKit.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftMetal.dylib ... 
+2022-01-25 15:09:41 +0000  897384 bytes for ./iphoneos/libswiftMetal.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftDispatch.dylib ... 
+2022-01-25 15:09:41 +0000  5501554 bytes for ./iphoneos/libswiftDispatch.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftos.dylib ... 
+2022-01-25 15:09:41 +0000  1136939 bytes for ./iphoneos/libswiftos.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2022-01-25 15:09:41 +0000  503807 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftDarwin.dylib ... 
+2022-01-25 15:09:41 +0000  1412501 bytes for ./iphoneos/libswiftDarwin.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+2022-01-25 15:09:41 +0000  580261 bytes for ./iphoneos/libswiftQuartzCore.dylib
+2022-01-25 15:09:41 +0000  copying file ./iphoneos/libswiftFoundation.dylib ... 
+2022-01-25 15:09:41 +0000  62290500 bytes for ./iphoneos/libswiftFoundation.dylib
+2022-01-25 15:09:41 +0000  /usr/bin/ditto exited with 0
+2022-01-25 15:09:41 +0000  Processing step: IDEDistributionAppThinningStep
+2022-01-25 15:09:41 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-01-25 15:09:41 +0000  Processing step: IDEDistributionArchThinningStep
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2022-01-25 15:09:41 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2022-01-25 15:09:41 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/tasking' '-verify_arch' 'arm64e'
+2022-01-25 15:09:41 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-01-25 15:09:41 +0000  Skipping architecture thinning for item "tasking" because arch "arm64e" wasn't found
+2022-01-25 15:09:41 +0000  Processing step: IDEDistributionODRStep
+2022-01-25 15:09:42 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa073caa490; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741cda50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07414a610; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa068b14970; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073ca1480; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa057443fa0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa073998260; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073994990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0741299c0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa0749c6940; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa057443f50; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa071c4dc20; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa066c42940; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa057443f20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa070169240; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071cb51f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa057443f00; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa0aa423b80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa074129980; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa0739da150; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0724e7170; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07413e4f0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa071c9cf70; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073998c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa074129920; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa07389dfe0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073920440; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa0739a4960; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071c5b760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0741298d0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa0739a1b70; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073995600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0741523b0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2022-01-25 15:09:42 +0000  Running /usr/bin/xattr '-crs' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app'
+2022-01-25 15:09:42 +0000  /usr/bin/xattr exited with 0
+2022-01-25 15:09:42 +0000  Processing step: IDEDistributionCodesignStep
+2022-01-25 15:09:42 +0000  Entitlements for <IDEDistributionItem: 0x7fa073caa490; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741cda50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0739539a0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:42 +0000  Entitlements for <IDEDistributionItem: 0x7fa073caa490; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741cda50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0a9dd74e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa073caa490; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741cda50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa06e6080e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fa06a415be0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~N8YBwy
+2022-01-25 15:09:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~N8YBwy' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib'
+2022-01-25 15:09:42 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2022-01-25 15:09:42 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2022-01-25 15:09:42 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:42 +0000  Entitlements for <IDEDistributionItem: 0x7fa068b14970; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073ca1480; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07411e1e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:42 +0000  Entitlements for <IDEDistributionItem: 0x7fa068b14970; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073ca1480; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07411b930; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa068b14970; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073ca1480; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa074146800; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fa0723b8bf0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~FGQKc8
+2022-01-25 15:09:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~FGQKc8' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib'
+2022-01-25 15:09:42 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2022-01-25 15:09:42 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2022-01-25 15:09:42 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:42 +0000  Entitlements for <IDEDistributionItem: 0x7fa073998260; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073994990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073926870; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:42 +0000  Entitlements for <IDEDistributionItem: 0x7fa073998260; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073994990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa074153980; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:42 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa073998260; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073994990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0741299b0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fa073b42da0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~ooou0J
+2022-01-25 15:09:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~ooou0J' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib'
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2022-01-25 15:09:43 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa0749c6940; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa0749c6940; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0731d8c20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:43 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa0749c6940; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa06f53deb0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fa0b01509e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~EqTubB
+2022-01-25 15:09:43 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~EqTubB' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib'
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2022-01-25 15:09:43 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa071c4dc20; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa066c42940; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073c98330; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa071c4dc20; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa066c42940; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073c708f0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:43 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa071c4dc20; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa066c42940; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073c9b9d0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fa072391bc0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~37aJ3w
+2022-01-25 15:09:43 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~37aJ3w' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib'
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2022-01-25 15:09:43 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa070169240; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071cb51f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07158fb20; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa070169240; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071cb51f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa06f55e220; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:43 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa070169240; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071cb51f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa06f534230; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fa0b01361d0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~kg4dRs
+2022-01-25 15:09:43 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~kg4dRs' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib'
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2022-01-25 15:09:43 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa0aa423b80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0a9dd74e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa0aa423b80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa074166d70; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:43 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa0aa423b80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0739230f0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fa0739e37e0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~ffRiNF
+2022-01-25 15:09:43 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~ffRiNF' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib'
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2022-01-25 15:09:43 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa0739da150; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0724e7170; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07394b510; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:43 +0000  Entitlements for <IDEDistributionItem: 0x7fa0739da150; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0724e7170; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073968cc0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:43 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa0739da150; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0724e7170; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073969400; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fa07234d970:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~9UkfHz
+2022-01-25 15:09:43 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~9UkfHz' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib'
+2022-01-25 15:09:43 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2022-01-25 15:09:44 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa071c9cf70; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073998c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0a9dd74e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa071c9cf70; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073998c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07011e260; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa071c9cf70; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073998c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa057452d40; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fa05666dff0:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~HfKlW9
+2022-01-25 15:09:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~HfKlW9' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib'
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2022-01-25 15:09:44 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa07389dfe0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0a9dd74e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa07389dfe0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa072e51940; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa07389dfe0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0739a5060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073c81a80; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fa0739e3220:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~1UPtDz
+2022-01-25 15:09:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~1UPtDz' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib'
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2022-01-25 15:09:44 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa0739a4960; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071c5b760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0baed6e30; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa0739a4960; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071c5b760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa06f5fcfe0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa0739a4960; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa071c5b760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa06f5495d0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fa056667070:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~KYNhkX
+2022-01-25 15:09:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~KYNhkX' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib'
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2022-01-25 15:09:44 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa0739a1b70; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073995600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0739393d0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa0739a1b70; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073995600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0554f07e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2022-01-25 15:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa0739a1b70; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa073995600; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073966a40; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='(null)', teamID='27YJ3AB2C9', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fa05665f680:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~68Ohl2
+2022-01-25 15:09:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~68Ohl2' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib'
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib: replacing existing signature
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2022-01-25 15:09:44 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa055672dd0; bundleID='com.tasking', path='<DVTFilePath:0x7fa06f6d6e50:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741fdf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa0739230f0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='{
+    "application-identifier" = "27YJ3AB2C9.com.tasking";
+    "com.apple.developer.team-identifier" = 27YJ3AB2C9;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "27YJ3AB2C9.com.tasking"
+    );
+}', teamID='27YJ3AB2C9', identifier='com.tasking', executablePath='<DVTFilePath:0x7fa071fe3c10:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/tasking'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "27YJ3AB2C9.com.tasking";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 27YJ3AB2C9;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "27YJ3AB2C9.com.tasking"
+    );
+}
+2022-01-25 15:09:44 +0000  Entitlements for <IDEDistributionItem: 0x7fa055672dd0; bundleID='com.tasking', path='<DVTFilePath:0x7fa06f6d6e50:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741fdf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa073968820; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='{
+    "application-identifier" = "27YJ3AB2C9.com.tasking";
+    "com.apple.developer.team-identifier" = 27YJ3AB2C9;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "27YJ3AB2C9.com.tasking"
+    );
+}', teamID='27YJ3AB2C9', identifier='com.tasking', executablePath='<DVTFilePath:0x7fa071fe3c10:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/tasking'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "27YJ3AB2C9.com.tasking";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 27YJ3AB2C9;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "27YJ3AB2C9.com.tasking"
+    );
+}
+2022-01-25 15:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa055672dd0; bundleID='com.tasking', path='<DVTFilePath:0x7fa06f6d6e50:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa0741fdf90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa07411e1e0; name='Apple Development: Hamza Humayun (9Q9HB3X6MM)', hash='1C8BAD979EF6C52EFE9EB73074E71C582F2FDAD2', serialNumber='5002F08F06E30CFE5D31B4C3228B1452', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-02 11:04:15 +0000''>', entitlements='{
+    "application-identifier" = "27YJ3AB2C9.com.tasking";
+    "com.apple.developer.team-identifier" = 27YJ3AB2C9;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "27YJ3AB2C9.com.tasking"
+    );
+}', teamID='27YJ3AB2C9', identifier='com.tasking', executablePath='<DVTFilePath:0x7fa071fe3c10:'/Users/hamzahumayun/Library/Developer/Xcode/Archives/2022-01-25/tasking 25-01-2022, 8.08 PM.xcarchive/Products/Applications/tasking.app/tasking'>', hardenedRuntime='0'>'> to: /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~xA8SLG
+2022-01-25 15:09:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'FBF1809EA09C7E9AD54EE35440900A1B96CFDD12' '--entitlements' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/entitlements~~~xA8SLG' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app'
+2022-01-25 15:09:44 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app: replacing existing signature
+2022-01-25 15:09:45 +0000  /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app: signed app bundle with Mach-O thin (arm64) [com.tasking]
+2022-01-25 15:09:45 +0000  /usr/bin/codesign exited with 0
+2022-01-25 15:09:45 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-01-25 15:09:45 +0000  Processing step: IDEDistributionCreateIPAStep
+2022-01-25 15:09:45 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root' '/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Packages/tasking.ipa'
+2022-01-25 15:09:45 +0000  >>> Copying /var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root 
+2022-01-25 15:09:45 +0000  copying file ./BCSymbolMaps/45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap ... 
+2022-01-25 15:09:45 +0000  1776431 bytes for ./BCSymbolMaps/45D237E2-6470-35AE-BD49-96CC5B643607.bcsymbolmap
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/_CodeSignature/CodeResources ... 
+2022-01-25 15:09:45 +0000  12006 bytes for ./Payload/tasking.app/_CodeSignature/CodeResources
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Fontisto.ttf ... 
+2022-01-25 15:09:45 +0000  313528 bytes for ./Payload/tasking.app/Fontisto.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Octicons.ttf ... 
+2022-01-25 15:09:45 +0000  28364 bytes for ./Payload/tasking.app/Octicons.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Feather.ttf ... 
+2022-01-25 15:09:45 +0000  56024 bytes for ./Payload/tasking.app/Feather.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Entypo.ttf ... 
+2022-01-25 15:09:45 +0000  65584 bytes for ./Payload/tasking.app/Entypo.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/FontAwesome5_Brands.ttf ... 
+2022-01-25 15:09:45 +0000  132728 bytes for ./Payload/tasking.app/FontAwesome5_Brands.ttf
+copying file ./Payload/tasking.app/MaterialCommunityIcons.ttf ... 
+2022-01-25 15:09:45 +0000  899432 bytes for ./Payload/tasking.app/MaterialCommunityIcons.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/AntDesign.ttf ... 
+2022-01-25 15:09:45 +0000  70344 bytes for ./Payload/tasking.app/AntDesign.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Foundation.ttf ... 
+2022-01-25 15:09:45 +0000  56976 bytes for ./Payload/tasking.app/Foundation.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Ionicons.ttf ... 
+2022-01-25 15:09:45 +0000  247192 bytes for ./Payload/tasking.app/Ionicons.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/FontAwesome5_Solid.ttf ... 
+2022-01-25 15:09:45 +0000  202616 bytes for ./Payload/tasking.app/FontAwesome5_Solid.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/FontAwesome5_Regular.ttf ... 
+2022-01-25 15:09:45 +0000  34092 bytes for ./Payload/tasking.app/FontAwesome5_Regular.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2022-01-25 15:09:45 +0000  518 bytes for ./Payload/tasking.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/AccessibilityResources.bundle/Info.plist ... 
+2022-01-25 15:09:45 +0000  795 bytes for ./Payload/tasking.app/AccessibilityResources.bundle/Info.plist
+copying file ./Payload/tasking.app/FontAwesome.ttf ... 
+2022-01-25 15:09:45 +0000  165548 bytes for ./Payload/tasking.app/FontAwesome.ttf
+copying file ./Payload/tasking.app/Zocial.ttf ... 
+2022-01-25 15:09:45 +0000  25552 bytes for ./Payload/tasking.app/Zocial.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/EvilIcons.ttf ... 
+2022-01-25 15:09:45 +0000  13456 bytes for ./Payload/tasking.app/EvilIcons.ttf
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/main.jsbundle ... 
+2022-01-25 15:09:45 +0000  1785523 bytes for ./Payload/tasking.app/main.jsbundle
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2022-01-25 15:09:45 +0000  3769 bytes for ./Payload/tasking.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2022-01-25 15:09:45 +0000  896 bytes for ./Payload/tasking.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/tasking.app/LaunchScreen.storyboardc/Info.plist ... 
+2022-01-25 15:09:45 +0000  258 bytes for ./Payload/tasking.app/LaunchScreen.storyboardc/Info.plist
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftCoreImage.dylib ... 
+2022-01-25 15:09:45 +0000  352384 bytes for ./Payload/tasking.app/Frameworks/libswiftCoreImage.dylib
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib ... 
+2022-01-25 15:09:45 +0000  500096 bytes for ./Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib
+2022-01-25 15:09:45 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftCore.dylib ... 
+2022-01-25 15:09:48 +0000  69852800 bytes for ./Payload/tasking.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2022-01-25 15:09:48 +0000  1535344 bytes for ./Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/tasking.app/Frameworks/libswiftUIKit.dylib ... 
+2022-01-25 15:09:48 +0000  1200992 bytes for ./Payload/tasking.app/Frameworks/libswiftUIKit.dylib
+2022-01-25 15:09:48 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftMetal.dylib ... 
+2022-01-25 15:09:48 +0000  544928 bytes for ./Payload/tasking.app/Frameworks/libswiftMetal.dylib
+2022-01-25 15:09:48 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftDispatch.dylib ... 
+2022-01-25 15:09:48 +0000  2993328 bytes for ./Payload/tasking.app/Frameworks/libswiftDispatch.dylib
+2022-01-25 15:09:48 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftos.dylib ... 
+2022-01-25 15:09:48 +0000  644960 bytes for ./Payload/tasking.app/Frameworks/libswiftos.dylib
+copying file ./Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2022-01-25 15:09:48 +0000  335936 bytes for ./Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/tasking.app/Frameworks/libswiftDarwin.dylib ... 
+2022-01-25 15:09:48 +0000  813984 bytes for ./Payload/tasking.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib ... 
+2022-01-25 15:09:48 +0000  355600 bytes for ./Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib
+2022-01-25 15:09:48 +0000  copying file ./Payload/tasking.app/Frameworks/libswiftFoundation.dylib ... 
+2022-01-25 15:09:49 +0000  31957088 bytes for ./Payload/tasking.app/Frameworks/libswiftFoundation.dylib
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/SimpleLineIcons.ttf ... 
+2022-01-25 15:09:49 +0000  54056 bytes for ./Payload/tasking.app/SimpleLineIcons.ttf
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/embedded.mobileprovision ... 
+2022-01-25 15:09:49 +0000  14210 bytes for ./Payload/tasking.app/embedded.mobileprovision
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png ... 
+2022-01-25 15:09:49 +0000  761 bytes for ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png ... 
+2022-01-25 15:09:49 +0000  405 bytes for ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png
+copying file ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png ... 
+2022-01-25 15:09:49 +0000  290 bytes for ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png ... 
+2022-01-25 15:09:49 +0000  913 bytes for ./Payload/tasking.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/assets/node_modules/react-native-paper/src/assets/back-chevron.png ... 
+2022-01-25 15:09:49 +0000  489 bytes for ./Payload/tasking.app/assets/node_modules/react-native-paper/src/assets/back-chevron.png
+2022-01-25 15:09:49 +0000  copying file ./Payload/tasking.app/tasking ... 
+2022-01-25 15:09:50 +0000  18680720 bytes for ./Payload/tasking.app/tasking
+copying file ./Payload/tasking.app/Info.plist ... 
+2022-01-25 15:09:50 +0000  1764 bytes for ./Payload/tasking.app/Info.plist
+copying file ./Payload/tasking.app/PkgInfo ... 
+2022-01-25 15:09:50 +0000  8 bytes for ./Payload/tasking.app/PkgInfo
+copying file ./Payload/tasking.app/MaterialIcons.ttf ... 
+2022-01-25 15:09:50 +0000  230384 bytes for ./Payload/tasking.app/MaterialIcons.ttf
+2022-01-25 15:09:50 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2022-01-25 15:09:50 +0000  466448 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2022-01-25 15:09:50 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+2022-01-25 15:09:50 +0000  copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2022-01-25 15:09:56 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+2022-01-25 15:09:56 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2022-01-25 15:09:56 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+2022-01-25 15:09:56 +0000  copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2022-01-25 15:09:56 +0000  1608688 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2022-01-25 15:09:56 +0000  724304 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2022-01-25 15:09:56 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+2022-01-25 15:09:56 +0000  copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2022-01-25 15:09:56 +0000  857072 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2022-01-25 15:09:56 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2022-01-25 15:09:56 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+2022-01-25 15:09:56 +0000  copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2022-01-25 15:09:57 +0000  486224 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+2022-01-25 15:09:57 +0000  copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2022-01-25 15:09:59 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2022-01-25 15:09:59 +0000  /usr/bin/ditto exited with 0
+2022-01-25 15:09:59 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-01-25 15:09:59 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-01-25 15:09:59 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-01-25 15:09:59 +0000  IDEDistributionItem init <DVTFilePath:0x7fa05745a250:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib'>
+2022-01-25 15:09:59 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa05745a250:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCore.dylib'>
+2022-01-25 15:09:59 +0000  IDEDistributionItem init <DVTFilePath:0x7fa05542d2f0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib'>
+2022-01-25 15:09:59 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa05542d2f0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftQuartzCore.dylib'>
+2022-01-25 15:09:59 +0000  IDEDistributionItem init <DVTFilePath:0x7fa0731fdf30:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib'>
+2022-01-25 15:09:59 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa0731fdf30:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftos.dylib'>
+2022-01-25 15:09:59 +0000  IDEDistributionItem init <DVTFilePath:0x7fa0675fc260:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa0675fc260:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftFoundation.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa07262ea40:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa07262ea40:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftMetal.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa0aa86c6e0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa0aa86c6e0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftUIKit.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa073983240:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa073983240:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftObjectiveC.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa05745bbf0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa05745bbf0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDarwin.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa0731ebba0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa0731ebba0:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreFoundation.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa073957520:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa073957520:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreImage.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa073925620:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa073925620:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftCoreGraphics.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa05745ac90:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib'>
+2022-01-25 15:10:00 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fa05745ac90:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app/Frameworks/libswiftDispatch.dylib'>
+2022-01-25 15:10:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fa057445d00:'/var/folders/j7/2xvzyt2s0yg27j43cj3qkf040000gn/T/XcodeDistPipeline.~~~X6ZLZZ/Root/Payload/tasking.app'>
+2022-01-25 15:10:00 +0000  Processing step: IDEDistributionCreateManifestStep
+2022-01-25 15:10:00 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

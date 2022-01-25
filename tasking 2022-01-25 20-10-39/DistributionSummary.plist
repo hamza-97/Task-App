@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tasking.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FBF1809EA09C7E9AD54EE35440900A1B96CFDD12</string>
+				<key>dateExpires</key>
+				<string>03/09/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>27YJ3AB2C9.com.tasking</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>27YJ3AB2C9</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>27YJ3AB2C9.com.tasking</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>tasking.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ef5a8b5c-1af9-4933-be9e-e861f06f6b82</string>
+				<key>dateExpires</key>
+				<string>25/01/2023</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.tasking</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>27YJ3AB2C9</string>
+				<key>name</key>
+				<string>KAL TECHNOLOGIES (PRIVATE) LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
