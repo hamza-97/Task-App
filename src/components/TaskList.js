@@ -4,7 +4,6 @@ import Ionicons from 'react-native-vector-icons/dist/Ionicons';
 import Colors from '../utils/colors';
 
 const TaskList = props => {
-  const [checked, setChecked] = useState(false);
   return (
     <View style={{flexDirection: 'row', marginTop: 16}}>
       <Ionicons name="ios-square-outline" size={24} color={'#DADADA'} />
@@ -16,7 +15,7 @@ const TaskList = props => {
             color: Colors.prim1,
             fontWeight: '500',
           }}>
-          Submit my resume
+          {props.item.item.task}
         </Text>
 
         <Text
@@ -27,7 +26,7 @@ const TaskList = props => {
             color: '#B9B9BE',
             fontWeight: '600',
           }}>
-          ⏰ Today, 17.00
+          ⏰ {props.item.item.date}
         </Text>
       </View>
     </View>

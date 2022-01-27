@@ -14,7 +14,7 @@ const CurrentLocation = props => {
             color: Colors.prim1,
             fontWeight: '500',
           }}>
-          Pustegränd, Stockholm, SE
+          {props.item.item.location}
         </Text>
 
         <Text
@@ -25,7 +25,7 @@ const CurrentLocation = props => {
             color: '#B9B9BE',
             fontWeight: '600',
           }}>
-          59.3293° N, 18.0686° E
+          {props.item.item.coordinates}
         </Text>
       </View>
     </View>

@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
-import {Text, View, StyleSheet} from 'react-native';
-import Ionicons from 'react-native-vector-icons/dist/Ionicons';
-import Colors from '../utils/colors';
+import {Text, View} from 'react-native';
+import Ionicons from 'react-native-vector-icons/Ionicons';
 
 const CompleteTaskList = props => {
   const [checked, setChecked] = useState(false);
@@ -15,7 +14,7 @@ const CompleteTaskList = props => {
           color: '#B9B9BE',
           fontWeight: '500',
         }}>
-        Submit my resume
+        {props.item.item.task}
       </Text>
     </View>
   );

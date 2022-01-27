@@ -9,12 +9,8 @@ import {
   FlatList,
   ScrollView,
 } from 'react-native';
-import {TextInput, Button} from 'react-native-paper';
 import Swipeout from 'react-native-swipeout';
-
-import CustomButton from '../components/CustomButton';
 import Heading from '../components/Heading';
-import {SCREEN_WIDTH} from '../utils/Constants';
 import Colors from '../utils/colors';
 import TaskList from '../components/TaskList';
 import CompleteTaskList from '../components/CompleteTaskList';
@@ -23,6 +19,52 @@ import Ionicons from 'react-native-vector-icons/dist/Ionicons';
 
 const Task = props => {
   const [showPopup, setShowPopup] = useState(false);
+  const incompleteTask = [
+    {
+      task: 'Submit my resume',
+      date: 'Today, 12:00',
+    },
+    {
+      task: 'Go to gym',
+      date: 'Today, 20:00',
+    },
+    {
+      task: 'Sleep',
+      date: 'Today, 22:59',
+    },
+    {
+      task: 'Wash clothes',
+      date: 'Tomorrow, 09:00',
+    },
+    {
+      task: 'Take car to workshop',
+      date: 'Tomorrow, 13:00',
+    },
+    {
+      task: 'Sleep',
+      date: 'Tomorrow, 22:00',
+    },
+  ];
+  const completeTask = [
+    {
+      task: 'Submit my resume',
+    },
+    {
+      task: 'Go to gym',
+    },
+    {
+      task: 'Sleep',
+    },
+    {
+      task: 'Wash clothes',
+    },
+    {
+      task: 'Take car to workshop',
+    },
+    {
+      task: 'Sleep',
+    },
+  ];
   var swipeoutBtns = [
     {
       component: (
@@ -73,16 +115,7 @@ const Task = props => {
           Incomplete
         </Text>
         <FlatList
-          data={[
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-          ]}
+          data={incompleteTask}
           style={{marginTop: 10}}
           showsVerticalScrollIndicator={false}
           keyExtractor={(item, index) => item.id}
@@ -90,7 +123,7 @@ const Task = props => {
             return (
               <Swipeout right={swipeoutBtns} backgroundColor="red">
                 <View style={{backgroundColor: 'white'}}>
-                  <TaskList />
+                  <TaskList item={item} />
                 </View>
               </Swipeout>
             );
@@ -106,20 +139,11 @@ const Task = props => {
           Completed
         </Text>
         <FlatList
-          data={[
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-            'task',
-          ]}
+          data={completeTask}
           style={{marginTop: 10}}
           showsVerticalScrollIndicator={false}
           keyExtractor={(item, index) => item.id}
-          renderItem={item => <CompleteTaskList />}
+          renderItem={item => <CompleteTaskList item={item} />}
         />
       </ScrollView>
       {showPopup && <Reminder setShowPopup={setShowPopup} />}
@@ -127,10 +151,10 @@ const Task = props => {
   );
 };
 
-export default Task;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'white',
   },
 });
+export default Task;
